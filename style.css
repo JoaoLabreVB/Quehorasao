@@ -1,0 +1,30 @@
+/*
+cor de tarde #F17300
+cor de noite #07020D
+*/
+
+body{
+    background-color: #778DA9;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 15px black;
+    text-align: center;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
